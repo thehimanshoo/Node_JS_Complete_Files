@@ -1,0 +1,15 @@
+{
+  "name": "08-node-js-npm-dotenv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "08_app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^14.3.2"
+  }
+}
